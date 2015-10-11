@@ -1,5 +1,5 @@
 # load the data for 2007-02-1 & 2007-02-02 into hpcData
-#source("loadData.R")
+source("loadData.R")
 
 # create plot 3
 par(cex = 0.8)

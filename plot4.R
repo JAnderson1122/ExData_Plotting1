@@ -1,5 +1,5 @@
 # load the data for 2007-02-1 & 2007-02-02 into hpcData
-# source("loadData.R")
+source("loadData.R")
 
 # create plot 4
 par(mfcol = c(2, 2), cex = 0.6)
